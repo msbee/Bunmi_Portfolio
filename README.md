@@ -1,4 +1,4 @@
-
+# Projects 
 # [Project 1 : Exploratory Data Analysis for Policing Equity](https://github.com/msbee/P1)
 * Cleaned dataset which consisted of 2384 obesrvations 
 * Performed descriptive analysis to provide insight on the data
@@ -22,6 +22,6 @@
 
 ![image](https://user-images.githubusercontent.com/37641339/153900302-f2c8ccca-023a-4c89-b1bc-82c6561de8d0.png)
 
-
+### more to come!
 
 
