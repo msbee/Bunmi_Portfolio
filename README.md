@@ -14,5 +14,7 @@
 * Collected data from the john hopkins GitHub repo 
 * Performed some data visualisation on the covid cases, and vaccination to see the effect of vaccination.
 * Performed prediction of cases using polynomial regression.
- file:///C:/Users/bunmi/AppData/Roaming/jupyter/runtime/nbserver-28632-open.html
+
+ ![image](https://user-images.githubusercontent.com/37641339/153885540-75ba613b-981b-4a11-a256-2d0054adb687.png)
+
  
