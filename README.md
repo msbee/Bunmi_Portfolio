@@ -13,7 +13,7 @@
 # [Project 2 : Data Analysis and Prediction of COVID-19](https://github.com/msbee/P2)
 * Collected data from the john hopkins GitHub repo 
 * Performed some data visualisation on the covid cases, and vaccination to see the effect of vaccination.
-* Performed prediction of cases using polynomial regression.
+* Performed a seven day prediction of cases using polynomial regression.
 
 ![image](https://user-images.githubusercontent.com/37641339/153886601-0d5820ab-c368-4713-b5fd-8a14d9615134.png)
 
