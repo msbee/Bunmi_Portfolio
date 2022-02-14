@@ -15,7 +15,8 @@
 * Performed some data visualisation on the covid cases, and vaccination to see the effect of vaccination.
 * Performed prediction of cases using polynomial regression.
 
- ![image](https://user-images.githubusercontent.com/37641339/153885540-75ba613b-981b-4a11-a256-2d0054adb687.png)
  ![image](https://user-images.githubusercontent.com/37641339/153886195-9318e801-2046-4bba-8a7c-af7eba799708.png)
+ ![image](https://user-images.githubusercontent.com/37641339/153886345-08c56afc-13fa-42fd-8ad4-af6d90c661cb.png)
+
 
 
